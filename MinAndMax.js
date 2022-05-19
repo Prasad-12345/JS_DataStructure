@@ -44,7 +44,7 @@ console.log('Second min number is : ' + secondMin);
 /*
 * Extend the above program to sort the array and then find the 2nd largest and the 2nd smallest element.
 */
-/*let temp;
+let temp;
 for(let i = 0; i < maxCount; i++){
     for(let j = i; j < maxCount; j++){
         if(number[i] > number[j]){
@@ -56,4 +56,4 @@ for(let i = 0; i < maxCount; i++){
 }
 console.log('sorted number are: ' + number);
 console.log('second smallest: ' + number[1]);
-console.log('second largest: ' + number[number.length-2]);*/
+console.log('second largest: ' + number[number.length-2]);
